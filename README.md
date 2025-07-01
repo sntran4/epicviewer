@@ -12,6 +12,10 @@ EpicViewer is a web app that connects to NASA’s EPIC (Earth Polychromatic Imag
 - User alerts for invalid dates or empty API responses
 - Fully client-side — no server setup required
 
+
+## Live Demo
+[Demo](https://sntran4.github.io/epicviewer/)
+
 ## Technologies Used
 
 - **JavaScript (ES6+)**
